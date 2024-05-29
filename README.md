@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning how to use [GitHub](https://github.com/Anesu-Mudadi/Anesu-Mudadi)
+- 🔭 I’m currently Working on a **Text Based Webpage**
 
-- 🌱 I’m currently learning **GitHub (In-general)**
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 👯 I’m looking to collaborate on **Anything. I'm open to learning**
 
