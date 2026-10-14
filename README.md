@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)
 <h1 align="center">Hi 👋, I'm Anesuishe Mudadi</h1>
-<h3 align="center">I like turtles.</h3>
+<h3 align="center">I like Cows.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/6aWBg0rV1EYAAAAi/toothless-dancing.gif">
 
 
@@ -8,19 +8,20 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Working on a **Text Based Webpage**
+- 🔭 I’m currently Working on developing an **Intelligent Continuing Professional Development Platform with Interactive
+Video Assessment, Verified Learning Hours, and Digital Certification**
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **Mobile App Development in Flutter**
 
 - 👯 I’m looking to collaborate on **Anything. I'm open to learning**
 
 - 🤝 I’m looking for help with **Everything. I'm new here**
 
-- 💬 Ask me about **Turtles.**
+- 💬 Ask me about **Cows.**
 
 - 📫 How to reach me **dev.mudadi.anesu@gmail.com**
 
-- ⚡ Fun fact **I really like turtles.**
+- ⚡ Fun fact **I really like Cows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
